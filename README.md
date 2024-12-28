@@ -22,7 +22,7 @@ Quantity | Item
 
 ## Production Files
 
-![](images/EDC36-solder.jpg)
+![](images/EDC36-pcb.jpg)
 
 To place an order for the EDC36 PCB:
 
