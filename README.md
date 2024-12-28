@@ -11,7 +11,7 @@ The EDC36 is a split keyboard designed with simplicity and portability in mind.
 Quantity | Item
 --- | ---
 1 | RP2040-Zero (left half)
-1 | RP2040-Mini (right half)
+1 | RP2040-Tiny (right half)
 2 | EDC36 PCB
 36 | Choc v1 (PG1350) switches and keycaps 
 36 | 1N4148SOD-123 diodes
